@@ -1,0 +1,5 @@
+/Users/mattheworme/name-sorter/bin/Debug/NameSorterIO.exe
+/Users/mattheworme/name-sorter/bin/Debug/NameSorterIO.pdb
+/Users/mattheworme/name-sorter/obj/Debug/NameSorterIO.csproj.CoreCompileInputs.cache
+/Users/mattheworme/name-sorter/obj/Debug/NameSorterIO.exe
+/Users/mattheworme/name-sorter/obj/Debug/NameSorterIO.pdb
