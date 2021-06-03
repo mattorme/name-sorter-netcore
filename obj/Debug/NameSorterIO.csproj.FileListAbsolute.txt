@@ -3,3 +3,4 @@
 /Users/mattheworme/name-sorter/obj/Debug/NameSorterIO.csproj.CoreCompileInputs.cache
 /Users/mattheworme/name-sorter/obj/Debug/NameSorterIO.exe
 /Users/mattheworme/name-sorter/obj/Debug/NameSorterIO.pdb
+/Users/mattheworme/name-sorter/obj/Debug/NameSorterIO.csprojAssemblyReference.cache

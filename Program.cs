@@ -46,7 +46,14 @@ namespace NameSorterIO
                 .OrderBy(s => s)
                 .Select(fullName => Functions.FirstNameLast(fullName));
 
+            Console.WriteLine("Sorted list of names:");
+            foreach(string names in sortedNamesOriginalFormat)
+            {
+                Console.WriteLine(names);
+            }
+
             File.WriteAllLines(saveFilePath, sortedNamesOriginalFormat);
+            
 
         }
     }
